@@ -79,7 +79,6 @@ hr {
   margin: 5rem 0;
 }
 .imageHolder {
-  /* Top-Right-Bottom-Left */
   padding: 2rem 2rem 0 2rem;
 }
 .container {
@@ -94,7 +93,7 @@ hr {
   border-radius: 0.5rem;
   margin: 2rem 0;
 }
-.prepTime h3 {
+.prepTime h4 {
   color: var(--darkRaspberry);
 }
 .prepTime strong {
