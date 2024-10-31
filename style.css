@@ -2,7 +2,6 @@
 :root {
   --nutmeg: hsl(14, 45%, 36%);
   --darkRaspberry: hsl(332, 51%, 32%);
-
   --white: hsl(0, 0%, 100%);
   --roseWhite: hsl(330, 100%, 98%);
   --eggshell: hsl(30, 54%, 90%);
@@ -24,7 +23,7 @@ body {
   font-size: 16px;
   background-color: var(--eggshell);
 }
-section {
+.main {
   width: 100%;
   display: flex;
   justify-content: center;
