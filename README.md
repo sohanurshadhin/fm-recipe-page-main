@@ -10,8 +10,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-main-css-flex-box-responsive-fluid-widthheight-n95_BxyhbH)
-- Live Site URL: [Vercel](https://fm-recipe-sf.vercel.app/)
+- Solution URL: [Recipe page](https://www.frontendmentor.io/solutions/recipe-page-main-css-flex-box-responsive-fluid-widthheight-n95_BxyhbH)
+- Live Site URL: [Recipe page](https://fm-recipe-sf.vercel.app/)
 
 ## My process
 
