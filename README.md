@@ -31,6 +31,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Author
 
 - Frontend Mentor - [@sohanurshadhin](https://www.frontendmentor.io/profile/sohanurshadhin)
-- Instagram - [@SohanurShadhinn](https://www.instagram.com/sohanurshadhin/)
+- Instagram - [@SohanurShadhin](https://www.instagram.com/sohanurshadhin/)
 - LinkedIn - [@sohanurshadhin](https://www.linkedin.com/in/sohanurshadhin/)
 - X - [@SohanurShadhinn](https://x.com/SohanurShadhinn)
